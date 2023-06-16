@@ -1,14 +1,13 @@
 # 🌏 THENADLEE 🌎
-![playlist](https://user-images.githubusercontent.com/119985173/236849400-812dcde6-84dc-4595-bbb5-941fdce8c477.PNG)
+![thenadlee](https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7)
 
 # 🏠 [HOME PAGE](https://team-project-thenadlee.vercel.app)
 
 # 🖥️ 프로젝트 소개 - 수정 중
 ## THENADLEE
-> ### : 알파벳의 마지막 순서인 Y와 Z 다음, 첫번째 순서인 A로.<br/>
+> ### : 떠나 나들이
 
 > <br/>
-> 
 > - 
 
 > - 수정 중 
