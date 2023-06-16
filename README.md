@@ -1,4 +1,4 @@
-# 🌍🌎🌏 THENADLEE 🎵
+# 🌏 THENADLEE 🌎
 ![playlist](https://user-images.githubusercontent.com/119985173/236849400-812dcde6-84dc-4595-bbb5-941fdce8c477.PNG)
 
 # 🏠 [HOME PAGE](https://team-project-thenadlee.vercel.app)
