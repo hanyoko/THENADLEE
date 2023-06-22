@@ -19,7 +19,7 @@
 > - 2023-02-01 ~ 2023-02-13
 
 ## 👨‍👧‍👧 팀 프로젝트에서 맡은 부분
-> - 고요한 : 
+> - 고요한 : GoogleMap API / Searchbox API / Marker / DrawingManager API / Infowindow /  / Weather API /
 
 ## 🎶 프로젝트 소개
 <br/>
