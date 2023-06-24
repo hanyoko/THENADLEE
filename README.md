@@ -16,9 +16,9 @@
 > - 2023-02-01 ~ 2023-02-13
 
 ## 👨‍👧‍👧 팀 프로젝트에서 맡은 부분
-> ▪ 고요한 : Vancouver Part / Date / GoogleMap API / Searchbox API / Marker / DrawingManager API / Infowindow / Weather API / <br/>
-> ▪ 전반적인 `API` 부분을 담당했습니다. <br/>
-> ▪ 프로젝트를 진행하기 위해서는 GoogleMap이 활성화가 되어야 했는데, 해외 플랫폼이다보니 국내 seaching으로는 한계가 있어 `Google`과 `Stack Overflow`도 함께 참고하며 차근차근 진행해보았습니다.
+> - 고요한 : Vancouver Part / Date / GoogleMap API / Searchbox API / Marker / DrawingManager API / Infowindow / Weather API /
+> - 전반적인 `API` 부분을 담당했습니다.
+> - 프로젝트를 진행하기 위해서는 GoogleMap이 활성화가 되어야 했는데, 해외 플랫폼이다보니 국내 seaching으로는 한계가 있어 `Google`과 `Stack Overflow`도 함께 참고하며 차근차근 진행해보았습니다.
 ## 🎶 프로젝트 소개
 <br/>
 <br/>
