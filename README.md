@@ -23,6 +23,10 @@
 > 수정 중
 
 ## 🎶 프로젝트 소개
+
+|[🔗 LOG IN]|[🔗 MAIN]|
+|:--:|:--:|
+|<img src='https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7'>|<img src='https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7'>|
 > <br/>
 > <br/>
 > <br/>
