@@ -33,7 +33,7 @@
 
 |[🔗 MAIN](https://github.com/hanyoko/THENADLEE/wiki/MAIN)|[🔗 MAP](https://github.com/hanyoko/THENADLEE/wiki/MAP)|
 |:--:|:--:|
-|<img src='https://github.com/hanyoko/THENADLEE/assets/119985173/50904ed9-83a7-4ab7-81c8-4401bdc6a9af'>|<img src='https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7'>|
+|<img src='https://github.com/hanyoko/THENADLEE/assets/119985173/407235c4-9415-4f98-b4ef-f7cda9d7253e'>|<img src='https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7'>|
 
 
 <br/>
