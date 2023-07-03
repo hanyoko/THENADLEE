@@ -34,6 +34,8 @@
 <br/>
 
 <details><summary>화면</summary>
+#MAIN
+
   
 ##메인화면
 ![메인화면](https://github.com/hanyoko/THENADLEE/assets/119985173/50904ed9-83a7-4ab7-81c8-4401bdc6a9af)
@@ -80,10 +82,8 @@
 ##
 ![비밀번호 찾기](https://github.com/hanyoko/THENADLEE/assets/119985173/c45490ed-99e0-4b9a-9138-156e3bf04e29)
 
-
 ##
 ![비밀번호 찾기 이메일 입력](https://github.com/hanyoko/THENADLEE/assets/119985173/1f95717d-1a34-49c6-a67f-dc69b3fb2ade)
-
 
 ##
 ![비밀번호 변경](https://github.com/hanyoko/THENADLEE/assets/119985173/4d5f25bd-0815-4332-a91d-3e5cbd2a942c)
@@ -106,12 +106,15 @@
 ##
 ![비밀번호 변경 후 로그인](https://github.com/hanyoko/THENADLEE/assets/119985173/b14db2e0-aeda-4f5e-a605-2d84b0054857)
 
-
 ##
 ![로그인 상태](https://github.com/hanyoko/THENADLEE/assets/119985173/54ace903-12a2-4066-b62e-d6c91c0abf11)
 
 ##
 ![로그인 성공 console](https://github.com/hanyoko/THENADLEE/assets/119985173/81154a21-d4e8-40b6-8d2b-8ce502b81612)
+
+---
+
+# MAP
 
 ##
 ![제주도 - 지도](https://github.com/hanyoko/THENADLEE/assets/119985173/3aee0378-fcae-46c9-b31f-dde11c4d71af)
@@ -190,7 +193,6 @@
 
 ##
 ![여행 팁 console](https://github.com/hanyoko/THENADLEE/assets/119985173/fc13cf3c-64b4-405b-a2a7-fa9be38bd670)
-
 
 ##
 ![관광지 추가](https://github.com/hanyoko/THENADLEE/assets/119985173/c906426f-6078-4c54-a9d9-ed738f7e228a)
