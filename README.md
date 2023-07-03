@@ -1,4 +1,4 @@
-# 🌏 THENADLEE 🌎
+# 🌏 THE나들이 🌎
 ![thenadlee](https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7)
 <br/>
 
