@@ -243,7 +243,7 @@
 ## Footer 이용약관
 ![Footer 이용약관](https://github.com/hanyoko/THENADLEE/assets/119985173/6a41b373-463a-457d-b011-6a2415c068c2)
 
-##
+## Footer 지도 오류
 ![Footer 지도 오류](https://github.com/hanyoko/THENADLEE/assets/119985173/a9f7da42-6f4d-4f1a-ad99-d407473d0a12)
 
 </details>
