@@ -1,11 +1,14 @@
 # 🌏 THE 나들이 🌎
 ![thenadlee](https://github.com/hanyoko/THENADLEE/assets/119985173/4d35bc0f-f672-4c95-8a3d-ffd26bd1b0a7)
 <br/>
+<br/>
 
 # 🏠 [HOME PAGE](https://thenadlee.vercel.app)
 <br/>
 
 # 🖥️ 프로젝트 소개
+<br/>
+
 ## THENADLEE
 > ###  떠나(the na) 나들이(nadlee)
 > - Covid-19으로 인해 여행을 떠나지 못한 아쉬움을 프로젝트로 표출해보았습니다. **떠나자 ! 나들이 !**
