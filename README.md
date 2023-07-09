@@ -36,8 +36,6 @@ _**각 목록을 클릭하면 이동됩니다.**_
 
 
 <br/>
-<br/>
-<br/>
 
 <details><summary>화면</summary>
   
