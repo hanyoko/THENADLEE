@@ -20,7 +20,7 @@
 > - 2023-02-01 ~ 2023-02-13
 <br/>
 
-## 👨‍👧‍👧 팀 프로젝트에서 맡은 부분 - 수정 중
+## 👨‍👧‍👧 팀 프로젝트에서 맡은 부분
 > **고요한** : <br/>
 > **Vancouver 관광지 / Date / Weather API / 지도 구현 / GoogleMap API / Searchbox API / Marker / DrawingManager API / Infowindow**
 > <br/>
