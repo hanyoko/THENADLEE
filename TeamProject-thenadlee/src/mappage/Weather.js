@@ -4,7 +4,7 @@ import axios from "axios";
 import { useEffect } from "react";
 
 const api = {
-  key: "fe47bd82d2bf013b60f0a0cd0227ea20",
+  key: "b3514c282b0881d3c62d1738e4d0f678",
   base: "https://api.openweathermap.org/data/2.5/",
 };
 
