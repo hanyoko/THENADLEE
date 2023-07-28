@@ -26,6 +26,12 @@
 > <br/>
 > - 전반적인 `API` 부분을 담당했습니다.
 > - 프로젝트를 진행하기 위해서는 GoogleMap이 활성화가 되어야 했는데, 해외 플랫폼이다보니 국내 seaching으로는 한계가 있어 `Google`과 `Stack Overflow`도 함께 참고하며 차근차근 진행해보았습니다.
+> - Google Map API를 활용해 지도를 구현했습니다.
+> - MySQL과 AWS의 RDS를 연동하여 Database를 관리했습니다.
+> - 선택한 여행 지역의 좌표와 지역명을 출력시키기 위해, 데이터베이스와 props를 활용했습니다.
+> - Weather API를 활용해서 현재의 날씨와 온도의 정보를 가져왔습니다.
+> - useEffect를 활용하여 API의 render를 최소화 했습니다.
+
 <br/>
 
 ## 📝 자세한 설명
