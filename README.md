@@ -37,7 +37,7 @@
 ## 📝 자세한 설명
 <br/>
 
-_**각 목록을 클릭하면 이동됩니다.**_
+_**각 목록을 클릭하면 이동됩니다 !**_
 <br/>
 <br/>
 |[🔗 MAIN](https://github.com/hanyoko/THENADLEE/wiki/MAIN)|[🔗 MAP](https://github.com/hanyoko/THENADLEE/wiki/MAP)|
